@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Encriptador</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="chave">Chave:</string>
+    <string name="numChave">000</string>
+    <string name="encriptar">Encriptar</string>
+    <string name="textoEncriptado">O texto aparecera aqui!</string>
+</resources>
